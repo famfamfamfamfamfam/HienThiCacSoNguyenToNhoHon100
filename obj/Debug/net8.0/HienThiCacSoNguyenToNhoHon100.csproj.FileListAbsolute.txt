@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.exe
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.deps.json
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.dll
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.sourcelink.json
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.dll
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\obj\Debug\net8.0\refint\HienThiCacSoNguyenToNhoHon100.dll
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiCacSoNguyenToNhoHon100.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\BaiTap\HienThiCacSoNguyenToNhoHon100\obj\Debug\net8.0\ref\HienThiCacSoNguyenToNhoHon100.dll
